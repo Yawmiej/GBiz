@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="15px" viewBox="0 0 29 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Button/Desktop/Arrow-Right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Design---flow-05" transform="translate(-903.000000, -388.000000)" fill="#3A173E">
+            <g id="Copy-Carousel" transform="translate(418.000000, 0.000000)">
+                <g id="Button/Desktop/Arrow-Right" transform="translate(485.000000, 388.000000)">
+                    <polygon id="Arrow-Right" transform="translate(14.555000, 7.490000) rotate(-90.000000) translate(-14.555000, -7.490000) " points="21.29 13.85 14.57 21.71 7.82 13.85 13.04 13.85 13.04 -6.73 16.07 -6.73 16.07 13.85"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
